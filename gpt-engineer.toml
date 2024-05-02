@@ -3,3 +3,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "ad302837-35b8-44c7-b349-9c064001e020"
+
+[[gptengineer-app.openapi]]
+url = "https://platform.openai.com/api-keys"
